@@ -36,7 +36,7 @@ mkdir -p logs
 
 ###### Training ######
 for seed in 0; do
-  python3 -u qagnn.py --dataset $dataset \
+  python -u qagnn.py --dataset $dataset \
       --encoder $model -k $k --gnn_dim $gnndim -elr $elr -dlr $dlr -bs $bs -mbs $mbs --fp16 true --seed $seed \
       --num_relation $num_relation \
       --n_epochs $n_epochs --max_epochs_before_stop 10  \
