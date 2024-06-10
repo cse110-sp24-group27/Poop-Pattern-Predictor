@@ -86,7 +86,7 @@ def main(jsonl_file_path, csv_file_path):
                 })
 
     # Calculate average SAS score
-    filtered_sas_scores = [score for score in sas_scores if score < 1.000]
+    filtered_sas_scores = [score['sas_score'] for score in filtered_entries]
     average_sas = sum(sas_scores) / len(sas_scores) if sas_scores else 0
     average_sasWrong = sum(filtered_sas_scores) / len(filtered_sas_scores) if filtered_sas_scores else 0
     print(f'Average SAS Score: {average_sas:.4f}')
