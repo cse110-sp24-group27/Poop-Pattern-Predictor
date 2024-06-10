@@ -77,7 +77,7 @@ def main(jsonl_file_path, csv_file_path):
             sas = calculate_sas(ground_truth_answer, predicted_answer)
             sas_scores.append(sas)
             print(f'Question ID: {question_id} - SAS: {sas:.4f}')
-            if sas < 1.0000:
+            if ground_truth_answer != predicted_answer:
                 count += 1
                 filtered_entries.append({
                     "question": question,

@@ -1,27 +1,5 @@
-276
+154
 500
-Question ID: 8-464
-Question: An electric car runs on electricity via
-Ground Truth Answer: electrical conductors
-Predicted Answer: electrical conductors
-SAS Score: 1.0000
-Choices:
- - A: gasoline
- - B: a power station
- - C: electrical conductors
- - D: fuel
-
-Question ID: 9-322
-Question: The middle of the day usually involves the bright star nearest to the earth to be straight overhead why?
-Ground Truth Answer: human planet rotation
-Predicted Answer: human planet rotation
-SAS Score: 1.0000
-Choices:
- - A: moons gravity
- - B: human planet rotation
- - C: global warming
- - D: moon rotation
-
 Question ID: 7-1140
 Question: The summer solstice in the northern hemisphere is four months before
 Ground Truth Answer: October
@@ -43,28 +21,6 @@ Choices:
  - B: broken stones
  - C: pollution
  - D: bacteria
-
-Question ID: 7-511
-Question: It's easier for human's to survive in:
-Ground Truth Answer: a town
-Predicted Answer: a town
-SAS Score: 1.0000
-Choices:
- - A: a cave
- - B: the ocean.
- - C: a town
- - D: alone
-
-Question ID: 9-937
-Question: A cactus stem is used to store
-Ground Truth Answer: liquid
-Predicted Answer: liquid
-SAS Score: 1.0000
-Choices:
- - A: fruit
- - B: liquid
- - C: food
- - D: spines
 
 Question ID: 9-163
 Question: A Mola Mola might live where?
@@ -99,17 +55,6 @@ Choices:
  - C: chimpanzee
  - D: pig
 
-Question ID: 1160
-Question: There was a lot more water vapor in the air when we went on a trip to
-Ground Truth Answer: Hanoi
-Predicted Answer: Hanoi
-SAS Score: 1.0000
-Choices:
- - A: Hanoi
- - B: Athens
- - C: Baghdad
- - D: Phoenix
-
 Question ID: 8-395
 Question: Overpopulation can cause
 Ground Truth Answer: Lower Life Expectancy in Countries
@@ -142,17 +87,6 @@ Choices:
  - B: a wheel without brake pads
  - C: a wheel with worn brake pads
  - D: a wheel with dry brake pads
-
-Question ID: 1426
-Question: To grow plants require
-Ground Truth Answer: shafts of sunlight
-Predicted Answer: shafts of sunlight
-SAS Score: 1.0000
-Choices:
- - A: acid rain
- - B: pesticides
- - C: shafts of sunlight
- - D: moonbeam rays
 
 Question ID: 8-466
 Question: What is the best way to guess a babies eye color?
@@ -220,17 +154,6 @@ Choices:
  - C: jacket
  - D: oven
 
-Question ID: 7-891
-Question: A recyclable material can be
-Ground Truth Answer: used more times
-Predicted Answer: used more times
-SAS Score: 1.0000
-Choices:
- - A: transformed
- - B: traded
- - C: thrown away
- - D: used more times
-
 Question ID: 7-52
 Question: Human reproduction requires
 Ground Truth Answer: a womb
@@ -275,17 +198,6 @@ Choices:
  - C: nothing happens
  - D: they fall down
 
-Question ID: 8-79
-Question: A balloon is filled with helium for a party. After the party, the balloons are left in the living room, where a fireplace is heating the room. The balloons
-Ground Truth Answer: expand
-Predicted Answer: expand
-SAS Score: 1.0000
-Choices:
- - A: expand
- - B: melt
- - C: shrink
- - D: fall
-
 Question ID: 1835
 Question: Seals are most likely to be found in what type of environment?
 Ground Truth Answer: arctic
@@ -296,17 +208,6 @@ Choices:
  - B: arctic
  - C: Mediterranean
  - D: tropical
-
-Question ID: 8-179
-Question: A person has a chance to experience an equinox
-Ground Truth Answer: biannually
-Predicted Answer: biannually
-SAS Score: 1.0000
-Choices:
- - A: weekly
- - B: monthly
- - C: annually
- - D: biannually
 
 Question ID: 1674
 Question: A girl and her mom have the same
@@ -407,17 +308,6 @@ Choices:
  - C: nice weather
  - D: taking food
 
-Question ID: 9-227
-Question: The surface of the moon contains
-Ground Truth Answer: high peaks
-Predicted Answer: high peaks
-SAS Score: 1.0000
-Choices:
- - A: dogs
- - B: water
- - C: high peaks
- - D: humans
-
 Question ID: 1923
 Question: When trying to pull a rose out of the ground why do you encounter resistance?
 Ground Truth Answer: roots
@@ -428,39 +318,6 @@ Choices:
  - B: tensile strength
  - C: plant temperature
  - D: plant color
-
-Question ID: 8-260
-Question: Decaying vegetation is part of the process that
-Ground Truth Answer: enables gas powered motors to operate
-Predicted Answer: enables gas powered motors to operate
-SAS Score: 1.0000
-Choices:
- - A: enables nuclear power to function
- - B: enables to emitting of light beams
- - C: enables gas powered motors to operate
- - D: enables windmills to power electric grids
-
-Question ID: 9-491
-Question: After a torrential downpour over a week, a man notices that the pond in his backyard is
-Ground Truth Answer: bloated
-Predicted Answer: bloated
-SAS Score: 1.0000
-Choices:
- - A: melted
- - B: dehydrated
- - C: bloated
- - D: salted
-
-Question ID: 9-1139
-Question: The man's heart skipped a beat and he felt pain after touching which of these?
-Ground Truth Answer: electrical transformer
-Predicted Answer: electrical transformer
-SAS Score: 1.0000
-Choices:
- - A: ice cube
- - B: water
- - C: electrical transformer
- - D: grass
 
 Question ID: 1545
 Question: Which substance is capable of dripping?
@@ -506,17 +363,6 @@ Choices:
  - C: the large hill
  - D: the canyon
 
-Question ID: 7-157
-Question: Ocean water contains
-Ground Truth Answer: copious amounts of the combination of Na and Cl
-Predicted Answer: copious amounts of the combination of Na and Cl
-SAS Score: 1.0000
-Choices:
- - A: copious amounts of seltzer
- - B: scant amounts of sodium chloride
- - C: scant amounts of carbonation
- - D: copious amounts of the combination of Na and Cl
-
 Question ID: 9-1164
 Question: A cheetah that runs all day will find it has lost a lot of
 Ground Truth Answer: water
@@ -539,50 +385,6 @@ Choices:
  - C: sensing nearby objects by temperature change
  - D: using sound to 'see'
 
-Question ID: 326
-Question: December 21st through March 20 is a three month period which is an example of what?
-Ground Truth Answer: A Season
-Predicted Answer: A Season
-SAS Score: 1.0000
-Choices:
- - A: A session
- - B: A Match
- - C: A Season
- - D: Autumn
-
-Question ID: 359
-Question: What is a more comfortable color to have for your automobile upholstery if living in a desert?
-Ground Truth Answer: ecru
-Predicted Answer: ecru
-SAS Score: 1.0000
-Choices:
- - A: ecru
- - B: red
- - C: black
- - D: navy
-
-Question ID: 9-350
-Question: The salamander could eat a large amounts of what?
-Ground Truth Answer: six legged winged organisms
-Predicted Answer: six legged winged organisms
-SAS Score: 1.0000
-Choices:
- - A: fettuccine if left around
- - B: waxy leaves from certain plants
- - C: dead carcass meat from livestock
- - D: six legged winged organisms
-
-Question ID: 7-140
-Question: A person can see
-Ground Truth Answer: a written message
-Predicted Answer: a written message
-SAS Score: 1.0000
-Choices:
- - A: a radio recording
- - B: an emotion
- - C: a written message
- - D: an abstract idea
-
 Question ID: 7-391
 Question: Animals are drawn to
 Ground Truth Answer: feeders
@@ -594,28 +396,6 @@ Choices:
  - C: feeders
  - D: Carbon Dioxide
 
-Question ID: 1672
-Question: Squirrels spend their fall
-Ground Truth Answer: stockpiling pecans for the frigid months
-Predicted Answer: stockpiling pecans for the frigid months
-SAS Score: 1.0000
-Choices:
- - A: looking for pretty leaves to collect
- - B: stockpiling rocks for fighting in the winter
- - C: stockpiling pecans for the frigid months
- - D: collecting twigs to keep warm
-
-Question ID: 9-983
-Question: Crop rotation has a positive impact on what?
-Ground Truth Answer: dirt quality
-Predicted Answer: dirt quality
-SAS Score: 1.0000
-Choices:
- - A: government mentality
- - B: dirt quality
- - C: town economies
- - D: crop watering
-
 Question ID: 9-179
 Question: the best method for detecting texture is
 Ground Truth Answer: rubbing it
@@ -626,28 +406,6 @@ Choices:
  - B: seeing it
  - C: hearing it
  - D: tasting it
-
-Question ID: 9-30
-Question: Which animal is considered a predator?
-Ground Truth Answer: snake
-Predicted Answer: snake
-SAS Score: 1.0000
-Choices:
- - A: ant
- - B: snake
- - C: elephant
- - D: giraffe
-
-Question ID: 8-491
-Question: A farmer harvests seeds from some plants, such as tomatoes, in order to plant them later on. These seeds, once planted
-Ground Truth Answer: contain their necessary nutrition
-Predicted Answer: contain their necessary nutrition
-SAS Score: 1.0000
-Choices:
- - A: have their own dirt
- - B: have their own sunlight
- - C: have a lot of sand
- - D: contain their necessary nutrition
 
 Question ID: 44
 Question: What type of characteristics are people not born with?
@@ -715,17 +473,6 @@ Choices:
  - C: include dolphins doing tricks for their trainers
  - D: include spots on a ladybug
 
-Question ID: 9-230
-Question: How could we determine approximately how far a bird is from the ground?
-Ground Truth Answer: Measure the altitude of the bird using a reference point, such as a tall building.
-Predicted Answer: Measure the altitude of the bird using a reference point, such as a tall building.
-SAS Score: 1.0000
-Choices:
- - A: Measure the altitude of the bird using a reference point, such as a tall building.
- - B: Identify the species of bird
- - C: Ask the bird how high it was when it returns back to earth
- - D: Measure the bird's mass
-
 Question ID: 9-988
 Question: Endangered pandas are sometimes
 Ground Truth Answer: confined to enclosures to be viewed by the public
@@ -736,17 +483,6 @@ Choices:
  - B: confined to enclosures to be viewed by the public
  - C: found eating corn in the middle of North America
  - D: made into delicious rare steaks
-
-Question ID: 9-393
-Question: Algae can be found in
-Ground Truth Answer: reservoir
-Predicted Answer: reservoir
-SAS Score: 1.0000
-Choices:
- - A: reservoir
- - B: meat
- - C: street
- - D: tree
 
 Question ID: 7-823
 Question: A toaster converts electrical energy into heat energy for toasting much like
@@ -759,17 +495,6 @@ Choices:
  - C: a fire burns paper
  - D: a small oven works
 
-Question ID: 570
-Question: What does someone do when creating music?
-Ground Truth Answer: pluck the strings of a fingerboard with your fingers
-Predicted Answer: pluck the strings of a fingerboard with your fingers
-SAS Score: 1.0000
-Choices:
- - A: hit a toy baseball with a bat
- - B: shake a baby rattle with your hand
- - C: bang the wall with your fist
- - D: pluck the strings of a fingerboard with your fingers
-
 Question ID: 9-199
 Question: Since density = mass / volume, denser liquids such as water sink more than
 Ground Truth Answer: baby oil
@@ -780,17 +505,6 @@ Choices:
  - B: corn syrup or
  - C: milk
  - D: honey
-
-Question ID: 767
-Question: Photosynthesis can be performed by
-Ground Truth Answer: a cabbage cell
-Predicted Answer: a cabbage cell
-SAS Score: 1.0000
-Choices:
- - A: a cabbage cell
- - B: a bee cell
- - C: a bear cell
- - D: a cat cell
 
 Question ID: 9-1134
 Question: all cells use cellular respiration to
@@ -813,61 +527,6 @@ Choices:
  - B: given a large breakfast
  - C: eats a few corn cobs
  - D: given two apples to watch
-
-Question ID: 7-677
-Question: A desert environment is
-Ground Truth Answer: arid, parched, and sun-baked
-Predicted Answer: arid, parched, and sun-baked
-SAS Score: 1.0000
-Choices:
- - A: dry, grass covered, and humid
- - B: lush, green, and tropical
- - C: arid, parched, and sun-baked
- - D: dry, damp, and lush
-
-Question ID: 9-786
-Question: Seasons are caused by what rotating on its axis?
-Ground Truth Answer: Our Planet
-Predicted Answer: Our Planet
-SAS Score: 1.0000
-Choices:
- - A: Our Planet
- - B: The Atmosphere
- - C: The Equator
- - D: The Sun
-
-Question ID: 9-463
-Question: Which is best an letting electricity pass through?
-Ground Truth Answer: a steak knife
-Predicted Answer: a steak knife
-SAS Score: 1.0000
-Choices:
- - A: tile flooring
- - B: human flesh
- - C: hockey stick
- - D: a steak knife
-
-Question ID: 7-71
-Question: Asteroids crashing on planets can leave behind
-Ground Truth Answer: large, bowl-shaped cavities in the ground
-Predicted Answer: large, bowl-shaped cavities in the ground
-SAS Score: 1.0000
-Choices:
- - A: large, bowl-shaped cavities in the ground
- - B: aliens and foreign foods
- - C: small dents in the planet's core
- - D: lakes filled with salty water
-
-Question ID: 9-437
-Question: You can experience a change of pressure when
-Ground Truth Answer: Soaring the skies
-Predicted Answer: Soaring the skies
-SAS Score: 1.0000
-Choices:
- - A: Yelling really loud
- - B: Soaring the skies
- - C: Going walking
- - D: riding a bike
 
 Question ID: 7-107
 Question: Summertime  happens during June in all but which location?
@@ -913,17 +572,6 @@ Choices:
  - C: a ball
  - D: bees
 
-Question ID: 470
-Question: What is an example of hunting?
-Ground Truth Answer: humans throwing a spear through an animal
-Predicted Answer: humans throwing a spear through an animal
-SAS Score: 1.0000
-Choices:
- - A: humans throwing a spear through an animal
- - B: humans chewing on boiled animal muscles
- - C: humans gathering animals in a gate
- - D: humans plucking fruit from a tree
-
 Question ID: 1297
 Question: Which of these has shape that changes depending on the container which it resides within?
 Ground Truth Answer: orange juice
@@ -946,39 +594,6 @@ Choices:
  - C: bitter
  - D: sour
 
-Question ID: 8-463
-Question: if coffee sits in the fridge and loses its liquid form, what is that point known as?
-Ground Truth Answer: the freezing point
-Predicted Answer: the freezing point
-SAS Score: 1.0000
-Choices:
- - A: the freezing point
- - B: the prime point
- - C: the boiling point
- - D: the melting point
-
-Question ID: 9-110
-Question: Mammals give birth to live
-Ground Truth Answer: children
-Predicted Answer: children
-SAS Score: 1.0000
-Choices:
- - A: children
- - B: birds
- - C: fish
- - D: insects
-
-Question ID: 9-942
-Question: Which of these is a factor in the shape of a fern's seed?
-Ground Truth Answer: inheritance
-Predicted Answer: inheritance
-SAS Score: 1.0000
-Choices:
- - A: luck
- - B: humans
- - C: gold
- - D: inheritance
-
 Question ID: 9-774
 Question: if the population in a habitat is on a steady decline, what condition is the habitat?
 Ground Truth Answer: it is an unsustainable habitat
@@ -1000,17 +615,6 @@ Choices:
  - B: water and oil
  - C: sand and rocks
  - D: salt and bark
-
-Question ID: 9-573
-Question: Medicine is used to cure but can cause people to have allergic reactions such as
-Ground Truth Answer: vomiting
-Predicted Answer: vomiting
-SAS Score: 1.0000
-Choices:
- - A: spider bites
- - B: vomiting
- - C: placebo effect
- - D: dance fever
 
 Question ID: 8-45
 Question: When would a nocturnal predator most likely hunt?
@@ -1045,17 +649,6 @@ Choices:
  - C: oxygen
  - D: water
 
-Question ID: 7-1132
-Question: Atomic 26 is drawn to a device, it could be
-Ground Truth Answer: magnetized
-Predicted Answer: magnetized
-SAS Score: 1.0000
-Choices:
- - A: magnetized
- - B: Na
- - C: compass
- - D: K
-
 Question ID: 609
 Question: What do cows eat?
 Ground Truth Answer: Chickpeas
@@ -1066,50 +659,6 @@ Choices:
  - B: Chocolate
  - C: Steak
  - D: Poultry
-
-Question ID: 9-510
-Question: In order for crops to grow food safely, pesticides are used on them. When it floods, this causes t he what to be poisonous?
-Ground Truth Answer: Runoff
-Predicted Answer: Runoff
-SAS Score: 1.0000
-Choices:
- - A: air
- - B: Corn
- - C: Runoff
- - D: farmers
-
-Question ID: 9-637
-Question: Where would a duck like to live?
-Ground Truth Answer: the Appalachian mountains
-Predicted Answer: the Appalachian mountains
-SAS Score: 1.0000
-Choices:
- - A: the Sahara
- - B: Antarctica
- - C: the Appalachian mountains
- - D: Death Valley
-
-Question ID: 473
-Question: What do tuna eat?
-Ground Truth Answer: Atlantic menhaden
-Predicted Answer: Atlantic menhaden
-SAS Score: 1.0000
-Choices:
- - A: Atlantic menhaden
- - B: Swedish fish
- - C: gummy fish
- - D: laminariales
-
-Question ID: 8-445
-Question: A woman notices that she is depressed every autumn, and wonders why. A friend suggests to her that perhaps certain changes that take place as seasons move from warm to cold may be having an effect on her. When pressed for an example of these changes, the friend cites
-Ground Truth Answer: grass turning brown
-Predicted Answer: grass turning brown
-SAS Score: 1.0000
-Choices:
- - A: flowers blooming
- - B: grass turning brown
- - C: trees growing
- - D: blossoms blooming
 
 Question ID: 397
 Question: Organisms covered by layers of sediment
@@ -1133,28 +682,6 @@ Choices:
  - C: states
  - D: southern hemisphere
 
-Question ID: 48
-Question: A lake environment is a good setup for what to happen to organic remains?
-Ground Truth Answer: fossilization
-Predicted Answer: fossilization
-SAS Score: 1.0000
-Choices:
- - A: bleaching
- - B: burning
- - C: fossilization
- - D: drying
-
-Question ID: 485
-Question: Wind frequently helps transport from one place to another
-Ground Truth Answer: exposed topsoil
-Predicted Answer: exposed topsoil
-SAS Score: 1.0000
-Choices:
- - A: marble statues
- - B: molten magma
- - C: subterranean termites
- - D: exposed topsoil
-
 Question ID: 1231
 Question: Sources of spices have
 Ground Truth Answer: cell walls
@@ -1176,39 +703,6 @@ Choices:
  - B: woodpecker
  - C: monkey
  - D: lion
-
-Question ID: 7-445
-Question: Erosion could lead to
-Ground Truth Answer: a change in the direction of a stream
-Predicted Answer: a change in the direction of a stream
-SAS Score: 1.0000
-Choices:
- - A: a change in the direction of a stream
- - B: a change in ocean temperatures
- - C: an increase in rainy weather
- - D: an increase in plants and animals
-
-Question ID: 437
-Question: Which term is involved with protection by skin?
-Ground Truth Answer: Eucerin pH5 range
-Predicted Answer: Eucerin pH5 range
-SAS Score: 1.0000
-Choices:
- - A: Eucerin pH5 range
- - B: Sagittal plane
- - C: pyogenic vibrio
- - D: popliteus
-
-Question ID: 8-205
-Question: The reason Earth is so sturdy is because
-Ground Truth Answer: It is made from rock
-Predicted Answer: It is made from rock
-SAS Score: 1.0000
-Choices:
- - A: It is made from rock
- - B: It eats three meals a day
- - C: It has a loving family
- - D: It is made from metal
 
 Question ID: 229
 Question: Nuclear activity is the cause of what celestial occurrence?
@@ -1232,17 +726,6 @@ Choices:
  - C: Ocean
  - D: Rain
 
-Question ID: 8-107
-Question: A rabbit has a litter of bunnies! Most of the babies are white, just like the mother rabbit, but one baby has brown spots, like the father rabbit. The father rabbit
-Ground Truth Answer: passed down inherited characteristics
-Predicted Answer: passed down inherited characteristics
-SAS Score: 1.0000
-Choices:
- - A: spread out some fur
- - B: has black on his ears
- - C: passed down inherited characteristics
- - D: is the same size as the mother
-
 Question ID: 7-527
 Question: Photosynthesis means plants are unable to
 Ground Truth Answer: convert sunlight to sand
@@ -1253,17 +736,6 @@ Choices:
  - B: provide food sources for others
  - C: be producers in an ecosystem
  - D: make their own food
-
-Question ID: 1942
-Question: Resources decreasing in an environment
-Ground Truth Answer: induces organisms to be more economical with resources
-Predicted Answer: induces organisms to be more economical with resources
-SAS Score: 1.0000
-Choices:
- - A: induces organisms to use more of their resources
- - B: causes an increase in use of resources
- - C: causes an uptick in birthrate
- - D: induces organisms to be more economical with resources
 
 Question ID: 7-171
 Question: If hot water were poured on an arm, what would happen to internal organs?
@@ -1287,17 +759,6 @@ Choices:
  - C: massive rain totals
  - D: icy precipitation
 
-Question ID: 9-440
-Question: a large cluster of humans, dogs, apple trees, atmosphere and more can be called
-Ground Truth Answer: a community
-Predicted Answer: a community
-SAS Score: 1.0000
-Choices:
- - A: army of ants
- - B: a community
- - C: a toy store
- - D: a shopping mall
-
 Question ID: 9-528
 Question: A person is considering various organs, and is looking at which ones will be most muscular. A contender for most muscular is
 Ground Truth Answer: the heart
@@ -1319,28 +780,6 @@ Choices:
  - B: mule and hinny
  - C: cat and catfish
  - D: caterpillar and butterfly
-
-Question ID: 395
-Question: Which of the following is warm blooded?
-Ground Truth Answer: skunk
-Predicted Answer: skunk
-SAS Score: 1.0000
-Choices:
- - A: toad
- - B: snake
- - C: turtle
- - D: skunk
-
-Question ID: 9-633
-Question: A male bird spots a female of his species and begins a fancy dance, flashing his bright feathers around in the air, showing off. This male is attempting to procure
-Ground Truth Answer: a reproductive companion
-Predicted Answer: a reproductive companion
-SAS Score: 1.0000
-Choices:
- - A: a manager
- - B: an agent
- - C: a meal
- - D: a reproductive companion
 
 Question ID: 7-1108
 Question: Dry environments often
@@ -1364,17 +803,6 @@ Choices:
  - C: water moves in a system
  - D: cars move on a street
 
-Question ID: 636
-Question: Members of rock bands often perform with
-Ground Truth Answer: earplugs
-Predicted Answer: earplugs
-SAS Score: 1.0000
-Choices:
- - A: flutes
- - B: sandals
- - C: earplugs
- - D: gloves
-
 Question ID: 9-187
 Question: small reptile's diet consists mostly of
 Ground Truth Answer: insects
@@ -1397,28 +825,6 @@ Choices:
  - C: grow very tall
  - D: look pretty
 
-Question ID: 178
-Question: During landslides there is often a lot of
-Ground Truth Answer: mud
-Predicted Answer: mud
-SAS Score: 1.0000
-Choices:
- - A: air
- - B: mud
- - C: snow
- - D: wind
-
-Question ID: 8-165
-Question: Tuna primarily eat
-Ground Truth Answer: spineless marine organisms, cartilaginous and gelatinous organisms
-Predicted Answer: spineless marine organisms, cartilaginous and gelatinous organisms
-SAS Score: 1.0000
-Choices:
- - A: parasites, soybeans and flaxseeds
- - B: sea turtles, sharks and coral reefs
- - C: spineless marine organisms, cartilaginous and gelatinous organisms
- - D: sea vegetables like kelp, Irish moss and Arame
-
 Question ID: 404
 Question: Evaporation of water can lead to
 Ground Truth Answer: blizzards
@@ -1440,61 +846,6 @@ Choices:
  - B: frozen
  - C: chilly
  - D: cold
-
-Question ID: 268
-Question: Scraping an object
-Ground Truth Answer: may cause pieces to flake off the object
-Predicted Answer: may cause pieces to flake off the object
-SAS Score: 1.0000
-Choices:
- - A: may cause the object to grow in size
- - B: may cause the object to fall
- - C: may cause pieces to flake off the object
- - D: may cause the object to snap in half
-
-Question ID: 1756
-Question: Which animal lays eggs
-Ground Truth Answer: emus
-Predicted Answer: emus
-SAS Score: 1.0000
-Choices:
- - A: emus
- - B: dogs
- - C: squirrels
- - D: giraffes
-
-Question ID: 745
-Question: Wax can be used similarly to
-Ground Truth Answer: rubber
-Predicted Answer: rubber
-SAS Score: 1.0000
-Choices:
- - A: wood
- - B: rubber
- - C: water
- - D: metal
-
-Question ID: 7-163
-Question: Turbines churning seawater can be used to produce what?
-Ground Truth Answer: a charge for appliances
-Predicted Answer: a charge for appliances
-SAS Score: 1.0000
-Choices:
- - A: a charge for appliances
- - B: large quantities of soup
- - C: large schools of fish
- - D: creating some sharp cheese
-
-Question ID: 9-858
-Question: What will increase when a substance absorbs solar energy?
-Ground Truth Answer: hotness
-Predicted Answer: hotness
-SAS Score: 1.0000
-Choices:
- - A: weight
- - B: height
- - C: hotness
- - D: nutrition
 
 Question ID: 1530
 Question: Which of these travels through the air?
@@ -1529,39 +880,6 @@ Choices:
  - C: hail stones
  - D: direct sunshine
 
-Question ID: 1074
-Question: What are iron nails made out of?
-Ground Truth Answer: metal
-Predicted Answer: metal
-SAS Score: 1.0000
-Choices:
- - A: wood
- - B: plastic
- - C: metal
- - D: glass
-
-Question ID: 226
-Question: Which of the following is powered the same way an electric car is?
-Ground Truth Answer: a blender
-Predicted Answer: a blender
-SAS Score: 1.0000
-Choices:
- - A: a bicycle
- - B: a motorcycle
- - C: a propane grill
- - D: a blender
-
-Question ID: 9-132
-Question: Aluminum is what?
-Ground Truth Answer: reprocessable
-Predicted Answer: reprocessable
-SAS Score: 1.0000
-Choices:
- - A: reprocessable
- - B: plastic
- - C: liquid
- - D: absorbent
-
 Question ID: 9-222
 Question: To get warm frogs can
 Ground Truth Answer: sit under a lamp
@@ -1572,17 +890,6 @@ Choices:
  - B: Drink a hot chocolate
  - C: Go for a run
  - D: sit under a lamp
-
-Question ID: 7-459
-Question: Earthworms create tunnels in
-Ground Truth Answer: dirt
-Predicted Answer: dirt
-SAS Score: 1.0000
-Choices:
- - A: ice
- - B: dirt
- - C: water
- - D: concrete
 
 Question ID: 9-881
 Question: when worms return nutrients from dead organisms to the soil by eating them it is known as
@@ -1617,17 +924,6 @@ Choices:
  - C: water
  - D: carbon dioxide
 
-Question ID: 9-482
-Question: If your dog sits in an oxygen deficient chamber, what happens?
-Ground Truth Answer: It will pass out
-Predicted Answer: It will pass out
-SAS Score: 1.0000
-Choices:
- - A: it will be fine
- - B: it will be happy
- - C: it will be comfortable
- - D: It will pass out
-
 Question ID: 630
 Question: Which of the following contains large amounts of salt water?
 Ground Truth Answer: The Indian
@@ -1638,39 +934,6 @@ Choices:
  - B: The Nile
  - C: The Indian
  - D: The Mississippi
-
-Question ID: 7-787
-Question: what are eaten by honey producing insects?
-Ground Truth Answer: plant reproduction parts
-Predicted Answer: plant reproduction parts
-SAS Score: 1.0000
-Choices:
- - A: they consume plants
- - B: they eat cows
- - C: plant reproduction parts
- - D: they eat flowers
-
-Question ID: 9-181
-Question: The Earth's closest heat source is
-Ground Truth Answer: our celestial fireball
-Predicted Answer: our celestial fireball
-SAS Score: 1.0000
-Choices:
- - A: our celestial fireball
- - B: solar flares
- - C: gamma rays
- - D: big bang
-
-Question ID: 1240
-Question: How can we see how wind effects sand?
-Ground Truth Answer: sandstorms create ripples in sand
-Predicted Answer: sandstorms create ripples in sand
-SAS Score: 1.0000
-Choices:
- - A: sand is always moving
- - B: sandstorms create ripples in sand
- - C: sand is easy to move through
- - D: beaches often have waves in the sand
 
 Question ID: 474
 Question: Fruit comes from what source
@@ -1694,50 +957,6 @@ Choices:
  - C: on a stump
  - D: under the ground
 
-Question ID: 8-321
-Question: I chipped away at a toy doll and the surface became really rough, when I rub it against a piece of wood that will create an increase in
-Ground Truth Answer: resistance
-Predicted Answer: resistance
-SAS Score: 1.0000
-Choices:
- - A: animals
- - B: resistance
- - C: water
- - D: sunshine
-
-Question ID: 1321
-Question: The arctic is white in coloring
-Ground Truth Answer: because it's blanketed in crystalline ice water
-Predicted Answer: because it's blanketed in crystalline ice water
-SAS Score: 1.0000
-Choices:
- - A: because it's overpopulated with polar bears
- - B: because it's covered in white lilies
- - C: because it's blanketed in crystalline ice water
- - D: because it's gets so little sunlight
-
-Question ID: 7-59
-Question: What food production happens in a leaf?
-Ground Truth Answer: nutrient making process
-Predicted Answer: nutrient making process
-SAS Score: 1.0000
-Choices:
- - A: nutrient making process
- - B: the breathing
- - C: the respiration
- - D: the digestion
-
-Question ID: 8-186
-Question: Selective deforestation has a negative impact on
-Ground Truth Answer: living organisms in ecosystem
-Predicted Answer: living organisms in ecosystem
-SAS Score: 1.0000
-Choices:
- - A: rain clouds and ozone layer
- - B: lakes, ponds and shellfish
- - C: greenhouse gases and algae
- - D: living organisms in ecosystem
-
 Question ID: 8-206
 Question: What can cause people to crash their car?
 Ground Truth Answer: Seeing a solar eclipse
@@ -1759,17 +978,6 @@ Choices:
  - B: certain features may be predicted
  - C: certain traits may be given
  - D: certain features may be guaranteed
-
-Question ID: 9-853
-Question: A deer is eating in a field, and wants more food. Regardless of how hard the deer tries, the deer is unable to produce
-Ground Truth Answer: food for itself
-Predicted Answer: food for itself
-SAS Score: 1.0000
-Choices:
- - A: longer antlers
- - B: food for itself
- - C: baby deer
- - D: urine
 
 Question ID: 8-373
 Question: All of the following are examples of evaporation apart from
@@ -1793,17 +1001,6 @@ Choices:
  - C: the sun
  - D: planets
 
-Question ID: 9-1090
-Question: What does the respiratory system transfer to the circulatory system?
-Ground Truth Answer: O
-Predicted Answer: O
-SAS Score: 1.0000
-Choices:
- - A: food
- - B: water
- - C: nutrients
- - D: O
-
 Question ID: 9-478
 Question: A Punnett square can be used to calculate the chance of a trait being passed to someone's
 Ground Truth Answer: daughter
@@ -1825,17 +1022,6 @@ Choices:
  - B: dryer
  - C: sandy
  - D: harder
-
-Question ID: 7-108
-Question: exposure to fire could result in
-Ground Truth Answer: combusted items
-Predicted Answer: combusted items
-SAS Score: 1.0000
-Choices:
- - A: wet items
- - B: cold items
- - C: none of these
- - D: combusted items
 
 Question ID: 1712
 Question: The special tissues in plants that transport minerals throughout the plant are similar to
@@ -1859,17 +1045,6 @@ Choices:
  - C: to the upper pole
  - D: directly to the equator
 
-Question ID: 9-776
-Question: Which of these saws will last longer?
-Ground Truth Answer: iron saw
-Predicted Answer: iron saw
-SAS Score: 1.0000
-Choices:
- - A: iron saw
- - B: aluminium saw
- - C: plastic saw
- - D: wooden saw
-
 Question ID: 8-279
 Question: although there are many stars visible in the night sky, which is most visible in the day?
 Ground Truth Answer: the sun that shines all day
@@ -1880,28 +1055,6 @@ Choices:
  - B: the orion star cluster
  - C: the sun that shines all day
  - D: all of these
-
-Question ID: 1823
-Question: Cellular respiration's trash is
-Ground Truth Answer: a plant's treasure
-Predicted Answer: a plant's treasure
-SAS Score: 1.0000
-Choices:
- - A: a bug's treasure
- - B: a cow's treasure
- - C: a plant's treasure
- - D: everyone's trash
-
-Question ID: 7-1170
-Question: A bird that takes off flying is
-Ground Truth Answer: using calories to produce motion
-Predicted Answer: using calories to produce motion
-SAS Score: 1.0000
-Choices:
- - A: using heat to produce motion
- - B: using calories to produce motion
- - C: using wings to produce heat
- - D: using calories to produce energy
 
 Question ID: 7-356
 Question: What kind of implement is a compass?
@@ -1914,39 +1067,6 @@ Choices:
  - C: it measures distance
  - D: it shows direction
 
-Question ID: 78
-Question: Nectar is taken to
-Ground Truth Answer: a hive
-Predicted Answer: a hive
-SAS Score: 1.0000
-Choices:
- - A: flowers
- - B: a hive
- - C: a stream
- - D: a nest
-
-Question ID: 9-520
-Question: what is the closest source of plasma to our planet?
-Ground Truth Answer: the nearest star sulfur burning heavenly body
-Predicted Answer: the nearest star sulfur burning heavenly body
-SAS Score: 1.0000
-Choices:
- - A: all of these
- - B: the cloud in the sky
- - C: the nearest star sulfur burning heavenly body
- - D: the bare moon surface
-
-Question ID: 7-653
-Question: A sailor needs to navigate to the shore, and does this by
-Ground Truth Answer: making an adjustment to the rudder
-Predicted Answer: making an adjustment to the rudder
-SAS Score: 1.0000
-Choices:
- - A: closing the sails quickly
- - B: setting out to sea
- - C: making an adjustment to the rudder
- - D: taking the afternoon off
-
 Question ID: 1112
 Question: A bat starts its life similarly to a
 Ground Truth Answer: pig
@@ -1957,39 +1077,6 @@ Choices:
  - B: pig
  - C: butterfly
  - D: duck
-
-Question ID: 9-552
-Question: If a bird is a carnivore, then it is likely a(n)
-Ground Truth Answer: predator
-Predicted Answer: predator
-SAS Score: 1.0000
-Choices:
- - A: prey
- - B: predator
- - C: herbivore
- - D: canary
-
-Question ID: 7-262
-Question: A warm-weather organism can be found in
-Ground Truth Answer: the Sahara
-Predicted Answer: the Sahara
-SAS Score: 1.0000
-Choices:
- - A: the Sahara
- - B: the mountains
- - C: the ocean
- - D: the sewers
-
-Question ID: 7-683
-Question: When approaching an elephant from a great distance,
-Ground Truth Answer: it looks bigger
-Predicted Answer: it looks bigger
-SAS Score: 1.0000
-Choices:
- - A: it stays large
- - B: it grows larger
- - C: it gets bigger
- - D: it looks bigger
 
 Question ID: 276
 Question: What would cause a human to grow?
@@ -2002,17 +1089,6 @@ Choices:
  - C: photosynthesis
  - D: marching
 
-Question ID: 664
-Question: There are less hummingbirds by this house than before because of
-Ground Truth Answer: a feeder at another house
-Predicted Answer: a feeder at another house
-SAS Score: 1.0000
-Choices:
- - A: a feeder at this house
- - B: the birds no longer like feeders
- - C: the size of the feeder
- - D: a feeder at another house
-
 Question ID: 9-550
 Question: A light was off because the cord was
 Ground Truth Answer: sitting on the table
@@ -2023,17 +1099,6 @@ Choices:
  - B: attached to the wall
  - C: attached to an extension cord
  - D: attached to a battery pack
-
-Question ID: 8-493
-Question: In the hottest months in the hottest desert, creatures such as birds may find water to drink
-Ground Truth Answer: in spiked plants
-Predicted Answer: in spiked plants
-SAS Score: 1.0000
-Choices:
- - A: in sticks
- - B: in pebbles
- - C: in sand
- - D: in spiked plants
 
 Question ID: 869
 Question: A food that is a source of heat is
@@ -2067,39 +1132,6 @@ Choices:
  - B: the animal with a starring role in Bambi
  - C: animals known for their memory
  - D: the fastest mammal with four legs
-
-Question ID: 9-893
-Question: A flashlight will need this in order to radiate photons:
-Ground Truth Answer: electron flow
-Predicted Answer: electron flow
-SAS Score: 1.0000
-Choices:
- - A: radiation
- - B: acoustic energy
- - C: vibrations
- - D: electron flow
-
-Question ID: 9-369
-Question: to find out how fast you are going you first need to know
-Ground Truth Answer: distance traveled
-Predicted Answer: distance traveled
-SAS Score: 1.0000
-Choices:
- - A: where you're going
- - B: distance traveled
- - C: distance to travel
- - D: home location
-
-Question ID: 9-1026
-Question: A small lamb, two days old, is walking with its mother. The mother feels ill, so refuses food, which dries up her milk production. The lack of lactation causes the lamb to
-Ground Truth Answer: weaken
-Predicted Answer: weaken
-SAS Score: 1.0000
-Choices:
- - A: weaken
- - B: strengthen
- - C: coexist
- - D: thrive
 
 Question ID: 9-259
 Question: How do polar bears survive the cold?
@@ -2167,28 +1199,6 @@ Choices:
  - C: alfalfa
  - D: cow
 
-Question ID: 1508
-Question: Which of these energy sources generates the least amount of pollution?
-Ground Truth Answer: windmill
-Predicted Answer: windmill
-SAS Score: 1.0000
-Choices:
- - A: coal
- - B: windmill
- - C: lithium batteries
- - D: gasoline
-
-Question ID: 9-668
-Question: Cephalopod ink is by octopuses to
-Ground Truth Answer: hide
-Predicted Answer: hide
-SAS Score: 1.0000
-Choices:
- - A: mate
- - B: feed
- - C: hide
- - D: play
-
 Question ID: 1271
 Question: Snow is more likely to fall two months before
 Ground Truth Answer: March
@@ -2222,17 +1232,6 @@ Choices:
  - C: May
  - D: September
 
-Question ID: 9-1167
-Question: Erosion is caused by different kinds of
-Ground Truth Answer: weather
-Predicted Answer: weather
-SAS Score: 1.0000
-Choices:
- - A: soil
- - B: fish
- - C: rocks
- - D: weather
-
 Question ID: 9-57
 Question: In order for your computer to operate, it must have an electrical path that is what?
 Ground Truth Answer: closed
@@ -2243,39 +1242,6 @@ Choices:
  - B: closed
  - C: broken
  - D: open
-
-Question ID: 7-93
-Question: The body is negatively impacted by
-Ground Truth Answer: rotavirus
-Predicted Answer: rotavirus
-SAS Score: 1.0000
-Choices:
- - A: white blood cells
- - B: vitamins
- - C: rotavirus
- - D: nasal decongestants
-
-Question ID: 8-97
-Question: Someone wants their electromagnets to work, but is having difficulty powering them. In order to make them work, they need to
-Ground Truth Answer: run a continuous current
-Predicted Answer: run a continuous current
-SAS Score: 1.0000
-Choices:
- - A: run wire through currants
- - B: run a continuous current
- - C: run around the wire
- - D: currently run wire through
-
-Question ID: 9-813
-Question: if a place has experienced flooding, what could be responsible?
-Ground Truth Answer: there has been excess condensed water vapor
-Predicted Answer: there has been excess condensed water vapor
-SAS Score: 1.0000
-Choices:
- - A: all of these
- - B: there has been excess condensed water vapor
- - C: the water lacks oxygen
- - D: the local deities are angry
 
 Question ID: 1954
 Question: Carbon steel is always what?
@@ -2298,50 +1264,6 @@ Choices:
  - B: calling it a bird is wrong
  - C: all of these
  - D: it is capable of reproducing
-
-Question ID: 9-576
-Question: If you find something smooth and hard on the ground, it is probably made of what?
-Ground Truth Answer: minerals
-Predicted Answer: minerals
-SAS Score: 1.0000
-Choices:
- - A: minerals
- - B: mist
- - C: clouds
- - D: water
-
-Question ID: 9-866
-Question: as you get closer to something it begins to
-Ground Truth Answer: grow in size visually
-Predicted Answer: grow in size visually
-SAS Score: 1.0000
-Choices:
- - A: shrinks down to nothing
- - B: grow in size visually
- - C: show a large shadow
- - D: rotate in a clockwise direction
-
-Question ID: 7-208
-Question: After a storm
-Ground Truth Answer: creek beds may be spilling over
-Predicted Answer: creek beds may be spilling over
-SAS Score: 1.0000
-Choices:
- - A: ponds may dry out
- - B: flowers will wilt and wither
- - C: creek beds may be spilling over
- - D: drinking water will be in short supply
-
-Question ID: 998
-Question: Which animal is hiding from a predator?
-Ground Truth Answer: an octopus mimicking the color and texture of a rocky outcrop
-Predicted Answer: an octopus mimicking the color and texture of a rocky outcrop
-SAS Score: 1.0000
-Choices:
- - A: a tadpole losing its tail as it grows
- - B: an angler fish using its Esca to lure another fish
- - C: an octopus mimicking the color and texture of a rocky outcrop
- - D: a great white shark breaching the water's surface
 
 Question ID: 433
 Question: Which best demonstrates the concept of force causing an increase in speed?
@@ -2398,28 +1320,6 @@ Choices:
  - C: The Amazon
  - D: The Gobi Desert
 
-Question ID: 8-240
-Question: In order for plants and animals to grow, they need to consume food and water for
-Ground Truth Answer: energy
-Predicted Answer: energy
-SAS Score: 1.0000
-Choices:
- - A: energy
- - B: fun
- - C: taste
- - D: soil
-
-Question ID: 9-135
-Question: a person driving to work in which of these is most likely to lose control?
-Ground Truth Answer: a sleet covered highway
-Predicted Answer: a sleet covered highway
-SAS Score: 1.0000
-Choices:
- - A: a dry cobblestone road
- - B: a sleet covered highway
- - C: a dry paved road
- - D: a dry gravel road
-
 Question ID: 7-1096
 Question: The only creature with offspring that is hatched, of these, is the
 Ground Truth Answer: swallow
@@ -2441,17 +1341,6 @@ Choices:
  - B: krypton
  - C: silicon
  - D: neon
-
-Question ID: 7-146
-Question: When a city tears down a park in a city, the park
-Ground Truth Answer: is removed
-Predicted Answer: is removed
-SAS Score: 1.0000
-Choices:
- - A: is removed
- - B: is renewed
- - C: is retrieved
- - D: is restored
 
 Question ID: 1554
 Question: Seeds
@@ -2486,28 +1375,6 @@ Choices:
  - C: a trip to the moon
  - D: a trip to the northern star
 
-Question ID: 936
-Question: Animals died after the removal of a
-Ground Truth Answer: bush
-Predicted Answer: bush
-SAS Score: 1.0000
-Choices:
- - A: bush
- - B: street
- - C: house
- - D: city
-
-Question ID: 7-732
-Question: Coal-fire power stations heat coal to incredible temps in order to
-Ground Truth Answer: produce energy
-Predicted Answer: produce energy
-SAS Score: 1.0000
-Choices:
- - A: produce energy
- - B: use heat energy
- - C: burn energy
- - D: fuel the world
-
 Question ID: 7-658
 Question: Creatures sometimes have barbs on their backs that they use to sting, all of these do, outside of the
 Ground Truth Answer: butterfly
@@ -2518,28 +1385,6 @@ Choices:
  - B: bee
  - C: scorpion
  - D: butterfly
-
-Question ID: 1003
-Question: A renewable resource is
-Ground Truth Answer: turbine produced electricity
-Predicted Answer: turbine produced electricity
-SAS Score: 1.0000
-Choices:
- - A: fossil fuel
- - B: turbine produced electricity
- - C: copper
- - D: coal lumps
-
-Question ID: 257
-Question: Global warming is lowering the world's amount of
-Ground Truth Answer: ice
-Predicted Answer: ice
-SAS Score: 1.0000
-Choices:
- - A: hurricanes
- - B: ocean levels
- - C: carbon dioxide
- - D: ice
 
 Question ID: 147
 Question: Echolocation can't detect an object's
@@ -2607,50 +1452,6 @@ Choices:
  - C: all of these
  - D: maybe it was
 
-Question ID: 1560
-Question: To change an object's shape
-Ground Truth Answer: rip off a corner portion
-Predicted Answer: rip off a corner portion
-SAS Score: 1.0000
-Choices:
- - A: rip off a corner portion
- - B: lay it flat on a table
- - C: color the edges of it
- - D: add a piece of tape to it
-
-Question ID: 60
-Question: In general, how many times per month is there a full moon?
-Ground Truth Answer: once
-Predicted Answer: once
-SAS Score: 1.0000
-Choices:
- - A: twice
- - B: three times
- - C: once
- - D: four times
-
-Question ID: 9-895
-Question: The amount of brush in a park has been decreasing. What could be a cause?
-Ground Truth Answer: the season has been quite dry
-Predicted Answer: the season has been quite dry
-SAS Score: 1.0000
-Choices:
- - A: the season has been quite dry
- - B: There has been a lot of rain
- - C: snakes shelter under the brush
- - D: People have been walking by the brush on the trails
-
-Question ID: 1937
-Question: A wedge requires
-Ground Truth Answer: mechanical energy
-Predicted Answer: mechanical energy
-SAS Score: 1.0000
-Choices:
- - A: electrical energy
- - B: chemical energy
- - C: mechanical energy
- - D: heat energy
-
 Question ID: 9-433
 Question: How many times would someone change the page of a calendar in a year?
 Ground Truth Answer: 12
@@ -2661,17 +1462,6 @@ Choices:
  - B: 12
  - C: 15
  - D: 14
-
-Question ID: 1458
-Question: A car has the least speed if it
-Ground Truth Answer: is turned off
-Predicted Answer: is turned off
-SAS Score: 1.0000
-Choices:
- - A: is heavy
- - B: is large
- - C: is turned off
- - D: is small
 
 Question ID: 57
 Question: Which musical instrument is the same type as a guitar?
@@ -2694,17 +1484,6 @@ Choices:
  - B: kilobytes
  - C: kilograms
  - D: kilometers
-
-Question ID: 1890
-Question: Camouflage is when an organism does what?
-Ground Truth Answer: reconfigure appearance to blend in
-Predicted Answer: reconfigure appearance to blend in
-SAS Score: 1.0000
-Choices:
- - A: reconfigure appearance to blend in
- - B: hides its young to avoid prey
- - C: changes its shape to appear larger
- - D: buries itself to disappear momentarily
 
 Question ID: 9-523
 Question: How does a microscope make small things appear?
@@ -2739,28 +1518,6 @@ Choices:
  - C: heat
  - D: sound
 
-Question ID: 8-365
-Question: A boy at school is waiting desperately for the school day to be over so that he can go home and play video games. He watches the time count down on the clock at the head of the class, counting the
-Ground Truth Answer: seconds
-Predicted Answer: seconds
-SAS Score: 1.0000
-Choices:
- - A: seconds
- - B: days
- - C: weeks
- - D: years
-
-Question ID: 9-727
-Question: Camouflage can be used by animals for hunting
-Ground Truth Answer: meals
-Predicted Answer: meals
-SAS Score: 1.0000
-Choices:
- - A: water
- - B: trees
- - C: air
- - D: meals
-
 Question ID: 7-461
 Question: Carbohydrates are made of sugar, which means that a diabetic would need to exhibit care in consuming
 Ground Truth Answer: toast
@@ -2771,17 +1528,6 @@ Choices:
  - B: meat
  - C: celery
  - D: toast
-
-Question ID: 9-1071
-Question: Hand dryers can also be used to
-Ground Truth Answer: dry out clothes after coming in from the rain
-Predicted Answer: dry out clothes after coming in from the rain
-SAS Score: 1.0000
-Choices:
- - A: keep cold drinks cool
- - B: dry out clothes after coming in from the rain
- - C: hydrate your face and hands
- - D: make a damp rag damper
 
 Question ID: 7-244
 Question: An ice cube placed in sunlight will
@@ -2871,28 +1617,6 @@ Choices:
  - C: earth
  - D: sand
 
-Question ID: 948
-Question: An instinctual behavior is
-Ground Truth Answer: frogs returning to the ponds were they hatched to lay eggs
-Predicted Answer: frogs returning to the ponds were they hatched to lay eggs
-SAS Score: 1.0000
-Choices:
- - A: dogs rolling over on command
- - B: frogs returning to the ponds were they hatched to lay eggs
- - C: birds mimicking human speech
- - D: seals clapping for treats from trainers
-
-Question ID: 9-759
-Question: What produce pollen and seeds?
-Ground Truth Answer: things you give a loved one in a bouquet
-Predicted Answer: things you give a loved one in a bouquet
-SAS Score: 1.0000
-Choices:
- - A: lakes that are frozen over
- - B: things you give a loved one in a bouquet
- - C: various types of animals
- - D: a person that is healthy
-
 Question ID: 970
 Question: Cooking peas requires
 Ground Truth Answer: turning on a stove top
@@ -2904,17 +1628,6 @@ Choices:
  - C: salt and cayenne pepper
  - D: turning on a stove top
 
-Question ID: 7-381
-Question: Earth revolves around
-Ground Truth Answer: an energy source
-Predicted Answer: an energy source
-SAS Score: 1.0000
-Choices:
- - A: the moon
- - B: outer space
- - C: another planet
- - D: an energy source
-
 Question ID: 9-436
 Question: A satellite orbits a
 Ground Truth Answer: terrestrial body
@@ -2925,28 +1638,6 @@ Choices:
  - B: ocean
  - C: terrestrial body
  - D: air pocket
-
-Question ID: 9-692
-Question: There is a heightened threat of landslide in
-Ground Truth Answer: The Andes
-Predicted Answer: The Andes
-SAS Score: 1.0000
-Choices:
- - A: the desert
- - B: The Andes
- - C: the ocean
- - D: Indiana
-
-Question ID: 1334
-Question: An example of water being an electrical conductor would be what?
-Ground Truth Answer: lightening hitting water and organisms inside dying
-Predicted Answer: lightening hitting water and organisms inside dying
-SAS Score: 1.0000
-Choices:
- - A: lightening hitting water and organisms inside dying
- - B: standing in a puddle and avoiding being struck by lightening
- - C: standing in a field and getting struck by lightening
- - D: grabbing a fence and being shocked
 
 Question ID: 9-1034
 Question: what does a chipmunk do with acorns
@@ -2981,17 +1672,6 @@ Choices:
  - C: 9 am
  - D: 6 pm
 
-Question ID: 1359
-Question: Photosynthesis does what by converting carbon dioxide, water, and sunlight into carbohydrates?
-Ground Truth Answer: providing nourishment which enables some growth to vegetation
-Predicted Answer: providing nourishment which enables some growth to vegetation
-SAS Score: 1.0000
-Choices:
- - A: nourishes small protein bits that need to eat with tiny shakes
- - B: providing nourishment which enables some growth to vegetation
- - C: mixes carbs into soluble plant matter
- - D: makes good vegetable protein
-
 Question ID: 9-645
 Question: A shark will be unable to survive on eating algae and moss, because
 Ground Truth Answer: it is a predator
@@ -3003,17 +1683,6 @@ Choices:
  - C: it is a freshwater fish
  - D: it is a producer
 
-Question ID: 8-250
-Question: A meadow vole just gave birth, and needs to feed herself so that she can produce milk for her babies. She searches for food in a field, and happily munches down on some
-Ground Truth Answer: bugs
-Predicted Answer: bugs
-SAS Score: 1.0000
-Choices:
- - A: oil
- - B: deer
- - C: bugs
- - D: recycled plastic fruit
-
 Question ID: 283
 Question: The Grand Canyon was formed by
 Ground Truth Answer: a river named after the 38th state to join the union flowing over time
@@ -3024,15 +1693,4 @@ Choices:
  - B: a river named after the 20th state to join the union flowing over time
  - C: a river named after the 38th state to join the union flowing over time
  - D: the Great Lakes drying up
-
-Question ID: 8-183
-Question: A woman, with a pale complexion, wants to spend the bright, sunny day at the beach. She makes sure that she stops at the store to pick up some sunblock before she begins to enjoy her day filled with sand and surf. She applies the sunblock carefully and thoroughly, because she knows that
-Ground Truth Answer: UV rays are harmful
-Predicted Answer: UV rays are harmful
-SAS Score: 1.0000
-Choices:
- - A: UV rays are harmful
- - B: sunlight will be fun
- - C: the sun is close
- - D: the sun is in space
 
