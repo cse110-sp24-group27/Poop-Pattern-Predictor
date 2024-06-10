@@ -64,6 +64,8 @@ def main(jsonl_file_path, csv_file_path):
     # Calculate SAS for each question
     sas_scores = []
     filtered_entries = []
+    count = 0
+    q_len = len(questions)
     for question in questions:
         question_id = question['id']
         ground_truth_label = question['answerKey']
@@ -76,6 +78,7 @@ def main(jsonl_file_path, csv_file_path):
             sas_scores.append(sas)
             print(f'Question ID: {question_id} - SAS: {sas:.4f}')
             if sas < 1.000:
+                count += 1
                 filtered_entries.append({
                     "question": question,
                     "predicted_answer": predicted_answer,
@@ -88,11 +91,16 @@ def main(jsonl_file_path, csv_file_path):
     average_sasWrong = sum(filtered_sas_scores) / len(filtered_sas_scores) if filtered_sas_scores else 0
     print(f'Average SAS Score: {average_sas:.4f}')
     print(f'Average of Wrong SAS Score: {average_sasWrong:.4f}')
+    print(count)
+    print(q_len)
+    
     # plot_histogram(sas_scores)
 
     # Write filtered entries to a txt file
     output_txt_file_path = 'filtered_sas_scores_csqa.txt'
     with open(output_txt_file_path, 'w', encoding='utf-8') as f:
+        f.write(str(count) + "\n")
+        f.write(str(q_len) + "\n")
         for entry in filtered_entries:
             f.write(f"Question ID: {entry['question']['id']}\n")
             f.write(f"Question: {entry['question']['question']['stem']}\n")

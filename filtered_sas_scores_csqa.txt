@@ -1,3 +1,5 @@
+661
+9741
 Question ID: 527e72eb38950b8031ee6217ef531960
 Question: Of all the rooms in a house it was his favorite, the aromas always drew him to the what?
 Ground Truth Answer: kitchen
