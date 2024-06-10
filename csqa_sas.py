@@ -63,6 +63,7 @@ def main(jsonl_file_path, csv_file_path):
 
     # Calculate SAS for each question
     sas_scores = []
+    filtered_entries = []
     for question in questions:
         question_id = question['id']
         ground_truth_label = question['answerKey']
@@ -74,6 +75,12 @@ def main(jsonl_file_path, csv_file_path):
             sas = calculate_sas(ground_truth_answer, predicted_answer)
             sas_scores.append(sas)
             print(f'Question ID: {question_id} - SAS: {sas:.4f}')
+            if sas < 1.000:
+                filtered_entries.append({
+                    "question": question,
+                    "predicted_answer": predicted_answer,
+                    "sas_score": sas
+                })
 
     # Calculate average SAS score
     filtered_sas_scores = [score for score in sas_scores if score < 1.000]
@@ -81,7 +88,21 @@ def main(jsonl_file_path, csv_file_path):
     average_sasWrong = sum(filtered_sas_scores) / len(filtered_sas_scores) if filtered_sas_scores else 0
     print(f'Average SAS Score: {average_sas:.4f}')
     print(f'Average of Wrong SAS Score: {average_sasWrong:.4f}')
-    plot_histogram(sas_scores)
+    # plot_histogram(sas_scores)
+
+    # Write filtered entries to a txt file
+    output_txt_file_path = 'filtered_sas_scores_csqa.txt'
+    with open(output_txt_file_path, 'w', encoding='utf-8') as f:
+        for entry in filtered_entries:
+            f.write(f"Question ID: {entry['question']['id']}\n")
+            f.write(f"Question: {entry['question']['question']['stem']}\n")
+            f.write(f"Ground Truth Answer: {get_choice_text(entry['question']['question']['choices'], entry['question']['answerKey'])}\n")
+            f.write(f"Predicted Answer: {entry['predicted_answer']}\n")
+            f.write(f"SAS Score: {entry['sas_score']:.4f}\n")
+            f.write("Choices:\n")
+            for choice in entry['question']['question']['choices']:
+                f.write(f" - {choice['label']}: {choice['text']}\n")
+            f.write("\n")
 
 if __name__ == "__main__":
     main(jsonl_file_path, csv_file_path)
