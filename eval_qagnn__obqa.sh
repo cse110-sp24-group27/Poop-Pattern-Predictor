@@ -19,7 +19,7 @@ save_dir_pref='saved_models'
 mkdir -p $save_dir_pref
 
 ###### Eval ######
-python3 -u qagnn.py --dataset $dataset \
+python -u qagnn.py --dataset $dataset \
       --train_adj data/${dataset}/graph/train.graph.adj.pk \
       --dev_adj   data/${dataset}/graph/dev.graph.adj.pk \
       --test_adj  data/${dataset}/graph/test.graph.adj.pk \
