@@ -3,6 +3,7 @@
 ## Analysis Study by Hayden Kwok
 Literature Survey: [NLP Analysis Study Literature Survey and
  Proposal](analysis_study_proposal.pdf)
+ 
 Analysis Report: [Evaluating QA-GNN: A Deep Dive into Question Answering with
  Language Models and Knowledge Graphs](qagnn_analysis_study.pdf)
 
