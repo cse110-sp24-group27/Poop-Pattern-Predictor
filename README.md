@@ -1,5 +1,11 @@
 # QA-GNN: Question Answering using Language Models and Knowledge Graphs
 
+## Analysis Study by Hayden Kwok
+Literature Survey: [NLP Analysis Study Literature Survey and
+ Proposal](analysis_study_proposal.pdf)
+Analysis Report: [Evaluating QA-GNN: A Deep Dive into Question Answering with
+ Language Models and Knowledge Graphs](qagnn_analysis_study.pdf)
+
 This repo provides the source code & data of our paper: [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378) (NAACL 2021).
 ```bib
 @InProceedings{yasunaga2021qagnn,
