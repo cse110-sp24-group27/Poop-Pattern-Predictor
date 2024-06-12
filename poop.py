@@ -1,0 +1,16 @@
+import time
+
+print("test 1")
+time.sleep(1.5)
+print("PASSED")
+time.sleep(1)
+print("test 2")
+time.sleep(1.5)
+print("PASSED")
+time.sleep(1)
+print("test 3")
+time.sleep(1.5)
+print("FAILED")
+# print("PASSED")
+time.sleep(1.5)
+# print("accuracy: 100%")
